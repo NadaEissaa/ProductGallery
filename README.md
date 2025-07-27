@@ -23,6 +23,7 @@ This application allows users to:
 ![Products Gallery](Screenshots/Screenshot%202025-07-27%20013457.png)
 ![Product Details](Screenshots/Screenshot%202025-07-27%20013519.png)
 ![Dark Mode](Screenshots/Screenshot%202025-07-27%20013539.png)
+![Cart](Screenshots/Screenshot%2025-07-27%013720.png)
 
 
 ---
