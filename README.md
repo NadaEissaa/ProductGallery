@@ -19,7 +19,6 @@ This application allows users to:
 ## 🖼️ Screenshots
 
 
-
 ![Products Gallery](Screenshots/Screenshot%202025-07-27%20013457.png)
 ![Product Details](Screenshots/Screenshot%202025-07-27%20013519.png)
 ![Dark Mode](Screenshots/Screenshot%202025-07-27%20013539.png)
