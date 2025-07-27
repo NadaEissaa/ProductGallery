@@ -19,12 +19,11 @@ This application allows users to:
 
 ## 🖼️ Screenshots
 
-> Add your screenshots here after running the app and taking them!  
-> Example:
 
-![Products Gallery](screenshots/products-gallery.png)
-![Product Details](screenshots/product-details.png)
-![Dark Mode](screenshots/dark-mode.png)
+
+![Products Gallery](../Store/Screenshots/Screenshot%202025-07-27%20013457.png)
+![Product Details](../Store/Screenshots/Screenshot%202025-07-27%20013519.png)
+![Dark Mode](../Store/Screenshots/Screenshot%202025-07-27%20013539.png)
 
 ---
 
