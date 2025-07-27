@@ -1,41 +1,81 @@
 # 🛍️ Product Gallery Web Application
 
-A modern, responsive e-commerce web application built with Angular and Tailwind CSS.
+Welcome to the Product Gallery! This is a modern, responsive e-commerce web app built with Angular and Tailwind CSS. Browse, search, sort, and shop for products with a seamless user experience—plus, enjoy dark mode!
 
-## 🚀 Features
+---
 
-- Browse products from Fake Store API
-- Search and filter products
-- Sort by price and name
-- Dark/Light theme toggle
-- Responsive design
-- Shopping cart functionality
+## 🚀 Project Overview
+
+This application allows users to:
+- Browse a gallery of products fetched from the [Fake Store API](https://fakestoreapi.com/products)
+- Search for products by name (case-insensitive)
+- Sort products by price or name
+- View detailed product information
+- Add items to a shopping cart and manage them
+- Toggle between light and dark mode for comfortable viewing
+- Enjoy a fully responsive design on any device
+
+---
 
 ## 🖼️ Screenshots
 
-![Products Gallery](Screenshots/Screenshot%202025-07-27%20013720.png)
-![Product Details](Screenshots/Screenshot%202025-07-27%20013539.png)
+
+
+![Products Gallery](../Store/Screenshots/Screenshot%202025-07-27%20013457.png)
+![Product Details](../Store/Screenshots/Screenshot%202025-07-27%20013519.png)
+![Dark Mode](../Store/Screenshots/Screenshot%202025-07-27%20013539.png)
+
+---
 
 ## 🛠️ Tech Stack
 
-- Angular 16+
-- Tailwind CSS
-- Fake Store API
-- Angular Material Icons
+- **Framework:** Angular 16+
+- **Styling:** Tailwind CSS
+- **API:** [Fake Store API](https://fakestoreapi.com/)
+- **State Management:** Angular Services
+- **Icons:** Angular Material Icons
 
-## 📦 Installation
+---
 
-```bash
-git clone https://github.com/NadaEissaa/ProductGallery.git
-cd ProductGallery
-npm install
-ng serve
-```
+## 📦 Features
 
-## 🌐 Live Demo
+- Product cards with images and names
+- Dynamic routing for product details (`/products/:id`)
+- Product details: name, description, image, price, category, and rating
+- Search bar and sort dropdown
+- Cart management (add/remove/view items)
+- Dark mode toggle
+- Loading indicators and error fallback UI
+- Responsive design for mobile and desktop
 
-[View Live Demo](https://your-demo-url.com)
+---
 
-## 📄 License
+## 🏁 Getting Started
 
-This project is licensed under the MIT License.
+### Prerequisites
+
+- Node.js (v16+)
+- Angular CLI
+
+### Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone [https://github.com/NadaEissaa/ProductGallery.git](https://github.com/NadaEissaa/ProductGallery.git)
+    cd ProductGallery
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3. **Run the app:**
+    ```bash
+    ng serve
+    ```
+    Open your browser at [http://localhost:4200](http://localhost:4200).
+
+---
+
+## 📂 Project Structure
