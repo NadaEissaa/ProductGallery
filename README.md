@@ -1,8 +1,7 @@
-# 🛍️ Product Gallery Web Application
 
-Welcome to the Product Gallery! This is a modern, responsive e-commerce web app built with Angular and Tailwind CSS. Browse, search, sort, and shop for products with a seamless user experience—plus, enjoy dark mode!
+Welcome to the Product Gallery! A modern, responsive e-commerce web application built with Angular and Tailwind CSS. Browse, search, sort, and shop for products with a seamless user experience—complete with dark mode support.
 
----
+🌐 **Live Demo:** [https://products-galleryy.netlify.app/](https://products-galleryy.netlify.app/)
 
 ## 🚀 Project Overview
 
@@ -21,9 +20,10 @@ This application allows users to:
 
 
 
-![Products Gallery](../Store/Screenshots/Screenshot%202025-07-27%20013457.png)
-![Product Details](../Store/Screenshots/Screenshot%202025-07-27%20013519.png)
-![Dark Mode](../Store/Screenshots/Screenshot%202025-07-27%20013539.png)
+![Products Gallery](]Screenshots/Screenshot%202025-07-27%20013457.png)
+![Product Details](Screenshots/Screenshot%202025-07-27%20013519.png)
+![Dark Mode](Screenshots/Screenshot%202025-07-27%20013539.png)
+![Cart](Screenshots/Screenshot%202025-07-27%20013720.png)
 
 ---
 
